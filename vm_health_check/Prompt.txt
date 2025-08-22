@@ -1,3 +1,5 @@
+## Prompt used to create the Shell script.
+
 Create a shell script where the script should analyze the health of the virtual machine based on CPU, memory and diskspace. if any of these three things are less than 60 percent utilized, the script declares the state of the virtual machine as healthy. Whereas if any of these parameters are more than 60 percent, script declares the health as not healthy.
 
 Also, the script should support a command line argument named "explain" when passed the script should explain the reason for health status along with printing the health status.
